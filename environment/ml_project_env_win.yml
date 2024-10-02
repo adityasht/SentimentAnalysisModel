@@ -1,0 +1,18 @@
+name: ml_proj
+channels:
+  - defaults
+dependencies:
+  - "python>=3.11"
+  - pip
+  - poetry
+  - pandas
+  - seaborn
+  - matplotlib
+  - numpy
+  - nltk
+  - tqdm
+  - imageio
+  - scikit-learn
+  - notebook
+  - jupyterlab
+  - scikit-image
